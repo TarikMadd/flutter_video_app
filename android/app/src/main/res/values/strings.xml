@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">toto</string>
+    <string name="facebook_app_id">424145601752104</string>
+    <string name="fb_login_protocol_scheme">fb424145601752104</string>
+</resources>
